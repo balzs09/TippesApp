@@ -1,0 +1,11 @@
+Tippes szabályok:
+Pontos eredmény- 10 pont
+Helyes Gólkülönbség- 6 pont
+Helyes kimenetel- 4 pont 
+Összes gól - 1 pont (pl : 2-0 tipp de 1-1 lett)
+Egyik csapat gólja- 1 pont (pl : 1-0 de 1-2 lett)
+Bajnokság győztes csapata 30 pont
+Gólkiráy 25 pont
+Gólpasszkirály 20 pont
+
+Ha van egyenes kiesséses szakasz, lehet  bajnokság alakításnál választani, hogy egyenes kieséses szakaszban  duplán számítsanak a pontok, vagy szimplán.
