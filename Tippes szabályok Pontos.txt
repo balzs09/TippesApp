@@ -9,3 +9,4 @@ Gólkiráy 25 pont
 Gólpasszkirály 20 pont
 
 Ha van egyenes kiesséses szakasz, lehet  bajnokság alakításnál választani, hogy egyenes kieséses szakaszban  duplán számítsanak a pontok, vagy szimplán.
+Ha több játékosnak is van legtöbb gólja, vagy gólpassza, bármelyik ilyen játékosra tett tipp esetén jár a pluszpont.
